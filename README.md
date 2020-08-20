@@ -1,2 +1,2 @@
-# Haskell_function_types_functors_monads
-# Haskell_function_types_functors_monads
+The repository is for some functions, structures, functors and monads. It is used for active reading of the book: "Learn You a Haskell for Great Good!" (Miran Lipovača) http://learnyouahaskell.com/
+
