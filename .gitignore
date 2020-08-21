@@ -58,3 +58,4 @@ cabal.project.local~
 # so, may be better to add files like ./Input_Output/how_are_you
 # manually 
 add_and_reverse_string
+forever
