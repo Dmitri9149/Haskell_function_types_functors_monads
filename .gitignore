@@ -60,3 +60,4 @@ cabal.project.local~
 add_and_reverse_string
 forever
 capslocker
+shorter_than_10_chars
