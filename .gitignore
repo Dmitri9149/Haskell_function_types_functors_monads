@@ -39,3 +39,22 @@ cabal.project.local~
 ./.git/hooks/fsmonitor-watchman.sample
 ./.git/hooks/prepare-commit-msg.sample
 ./Input_Output/how_are_you
+./.git/hooks/post-update.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/update.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/prepare-commit-msg.sample
+./Input_Output/how_are_you
+# use the command '  find . -executable -type f >>.gitignore ' 
+# to find all exec files and not to place on GitHub, 
+# but it finds many .git/..files and is very verbose
+# so, may be better to add files like ./Input_Output/how_are_you
+# manually 
+
