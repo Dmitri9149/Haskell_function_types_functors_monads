@@ -1,0 +1,5 @@
+Learn "Haskell for beginners"
+Learn "Linux and C"
+Finilize "identity" with Rust and Rocket project
+Learn Rust
+Arrays in Haskell
